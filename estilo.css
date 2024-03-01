@@ -1,0 +1,37 @@
+body{
+background-color: aliceblue;
+color: blueviolet;
+}
+hl{
+    font-size: 50px;
+    color: darkmagenta;
+    background-color: darkorchid;
+    text-align: center;
+    margin-top: 100px;
+}
+p{
+    color: darkorchid;
+}
+#p1{
+    color: darkslateblue;
+}
+span{
+    color: darkviolet;
+    font-size: 10px;
+    font-weight: 800;
+}
+button{
+    width: 200px;
+    height: 200px;
+    color: deeppink;
+    font-size: 50px;
+    border-radius: 50px;
+    box-shadow: 80px 80px 5px;
+    border: none;
+    position: absolute;
+    left: 1100px;
+}
+button:hover{
+    background-color: fuchsia;
+    color: hotpink;
+}
